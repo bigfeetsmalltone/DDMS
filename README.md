@@ -12,19 +12,12 @@ Convection (thunderstorm) develops rapidly within hours and is highly destructiv
 ![image](./figs/Performance.png)
 
 ## Convection Samples
-We provide 4-hour convection samples of DDMS (left is ground truth, right is prediction).
+We provide 4-hour convection nowcasting samples of DDMS over different months.
 
-sample 1 
-<center class="half">
-    <img src="./samples/gt/202206-53.gif" width="400"/>
-    <img src="./samples/pred/202206-53.gif" width="400"/>
-</center>
-
-sample 2 
-<center class="half">
-    <img src="./samples/gt/202307-83.gif" width="400"/>
-    <img src="./samples/pred/202307-83.gif" width="400"/>
-</center>
+![image](./samples/samples_group1.gif)
+![image](./samples/samples_group2.gif)
+![image](./samples/samples_group3.gif)
+![image](./samples/samples_group4.gif)
 
 
 
